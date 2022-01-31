@@ -42,8 +42,6 @@ export default function PaginaInicial() {
           styleSheet={{
             display: 'flex', alignItems: 'center', justifyContent: 'center',
             backgroundColor: appConfig.theme.colors.primary[1000],
-            // backgroundImage: 'url(https://i.pinimg.com/originals/1f/39/fc/1f39fc7717e45878460f49321f05ce50.png)',
-            // backgroundRepeat: 'no-repeat', backgroundSize: 'cover', backgroundBlendMode: 'multiply',
           }}
         >
           <Box
